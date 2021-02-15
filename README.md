@@ -1,8 +1,6 @@
 # microverse_hello_world
 This project is to challenge self to create a professional Git Hub Repo. First Task at Microverse
 
-![screenshot](./app_screenshot.png)
-
 Additional description about the project and its features.
 
 ## Built With
@@ -67,4 +65,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
-
